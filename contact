@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Eco-Friendly Packaging Solutions - Contact</title>
+</head>
+
+<body>
+    <nav>
+        <a href="./index.html">Home</a>
+        <a href="./about.html">About Us</a>
+        <a href="./contact.html">Contact</a>
+    </nav>
+
+    <section>
+        <h2>Contact Us</h2>
+        <p>
+            We'd love to hear from you! Reach out to us via the form below or
+            through our contact information.
+        </p>
+        <form>
+            <div>
+                <label>Name</label> <br />
+                <input type="text" placeholder="Your Name" />
+            </div>
+            <div>
+                <label>Email</label> <br />
+                <input type="email" placeholder="Your Email" />
+            </div>
+            <div>
+                <label>Message</label> <br />
+                <textarea rows="30" placeholder="Your Message"></textarea>
+            </div>
+            <button type="submit">Submit</button>
+        </form>
+        <h4>Contact Information</h4>
+        <p>Email: contact@ecopackaging.com</p>
+        <p>Phone: +61 2 1234 5678</p>
+        <p>Address: 324 Green Street, Brisbane, Australia</p>
+    </section>
+
+    <footer>
+        <p>
+            &copy; 2024 Eco-Friendly Packaging Solutions.
+            <br />
+            All rights reserved.
+        </p>
+    </footer>
+</body>
+
+</html>
