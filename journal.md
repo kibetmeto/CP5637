@@ -10,10 +10,24 @@ From a career and learning perspective, this week reinforced the foundational ro
 
 # Week 2
 
-**Estimated Hours** ~ 7 hrs
 
-In week 2, I created a website for my startup using Joomla CMS; I explored the basics of Joomla CMS and its customization options. Key resources included Joomla's official documentation and a tutorial on setting up Joomla
+**Estimated Hours** ~
 
-> I learned how to launch Joomla, configure the initial settings, and select a template Understanding how to navigate the Joomla interface and customize the site's appearance was crucial for setting a strong foundation.
+I spent approximately 7 hours on learning Joomla basics and initial setup.
 
-Mastering the initial setup of Joomla has made me more confident in using CMS platforms. This skill is valuable for web development, as many companies use similar systems for their websites management.
+#### Learning Activities & Resources
+> In week 2, I explored the basics of Joomla CMS and its customization options. 
+#### Key resources included:
+- **Joomla's official documentation**: This provided a comprehensive guide on setting up Joomla, understanding its interface, and the fundamentals of template customization. [Joomla's official documentation](https://docs.joomla.org/)
+- **YouTube tutorial on Joomla setup**: This beginner's tutorial walked me through the initial configuration of Joomla.
+  [How to launch Joomla](https://www.youtube.com/watch?v=PQK_5hHAaS8&pp=ygUNam9vbWxhIGxhdW5jaA%3D%3D)
+
+#### Content Insights
+- **Installation and Configuration**: I learned how to launch Joomla, configure the initial settings, and select a template.
+- **Template Navigation**: Understanding the Joomla interface was crucial. I learned to navigate through different sections such as the control panel, content management, and template settings.
+- **Customization Basics**: I explored basic customization options available in Joomla, such as modifying the default template's scheme, fonts, and layout to better suit the needs of my startup.
+
+#### Career, employability and learning insights
+- **CMS Proficiency**: Mastering the initial setup of Joomla has made me more confident in using CMS platforms, which is a valuable skill in web development roles. Many companies use Joomla or similar systems for their websites, making this knowledge highly applicable.
+- **Problem-Solving Skills**: Encountering and resolving initial setup issues improved my problem-solving abilities. This experience demonstrated the importance of perseverance and resourcefulness when working with new software tools.
+- **Learning Strategy**: Engaging with various learning resources, such as official documentation and video tutorials, highlighted the importance of a multifaceted approach to learning. This strategy can be applied to other areas of professional development, ensuring a well-rounded skill set.
