@@ -95,3 +95,92 @@ They provided a  practical demonstration on setting up and configuring a WordPre
   >Conducting short, focused interviews helped refine my ability to ask strategic questions and actively listen. These skills are critical in professional settings for effective communication and collaboration.
 
 
+
+# Week 4: Local Development & Deployment
+
+### Learning Activities & Resources
+
+>Configured a local development environment using Docker.
+Built a dynamic website with a MySQL database.
+Deployed the site locally and tested functionality.
+
+- **Docker Documentation:** [Docker Overview](https://docs.docker.com/get-started/overview/)
+- **MySQL Documentation:** [MySQL 8.0 Reference Manual](https://dev.mysql.com/doc/refman/8.0/en/)
+- **PHP Documentation:** [PHP Manual](https://www.php.net/manual/en/)
+  - [PHP & MySQL with Docker](https://www.youtube.com/watch?v=1yF9aXmXfZ0)
+
+### Estimated Hours ~
+
+_8 hours_
+
+## Content Insights
+
+### Key Takeaways
+
+1. **Docker for Development**
+   - **Containerization**
+   
+   >Docker allows encapsulating applications and their dependencies into containers, providing consistency across different environments.
+
+   - **Docker Compose**
+   
+   > Utilized Docker Compose to manage multi-container Docker applications, simplifying the setup process for services like Apache, MySQL, and PHP.
+
+2. **Dynamic Site with Database**
+
+   - **PHP and MySQL Integration**
+    
+    > Successfully connected PHP scripts to a MySQL database using PDO (PHP Data Objects), ensuring secure and efficient database operations.
+
+   - **CRUD Operations**
+   
+   > Implemented Create, Read, Update, Delete (CRUD) operations in PHP to interact with the MySQL database, solidifying my understanding of backend data management.
+
+### Challenges and Solutions
+
+- **Database Connectivity Issues**
+
+>Encountered issues with PHP not connecting to MySQL within Docker containers. Resolved by ensuring the correct network configurations and environment variables were set in the Docker Compose file.
+
+- **Environment Variable Management**
+
+>Learned the importance of securely managing environment variables, such as database credentials, using Docker secrets.
+
+## Career/Employability/Learning Insights
+
+### Professional Skills Development
+
+1. **Containerization Expertise**
+   >Gained valuable experience with Docker, a critical tool in modern DevOps practices. This skill is highly sought after in the industry for ensuring consistent development and production environments.
+   
+   > Learned to use Docker Compose for orchestrating multiple services, which is essential for deploying complex applications.
+
+2. **Backend Development:**
+   >Strengthened my backend development skills by integrating PHP with MySQL, focusing on best practices for database interaction and security.
+   
+   >The hands-on experience with CRUD operations provided practical insights into data manipulation and storage, a core competency in web development.
+
+### Learning Strategies and Insights
+
+1. **Incremental Learning**
+   >Adopted an incremental learning approach, breaking down the setup process into manageable steps. This strategy helped in better understanding and troubleshooting each component of the stack.
+   
+   >Regularly tested each part of the application after making changes, which facilitated early detection and resolution of issues.
+
+2. **Utilizing Diverse Resources**
+   >Leveraged a combination of official documentation, video tutorials, and community forums to get a well-rounded understanding of Docker, PHP, and MySQL.
+   
+   >This diverse approach to learning ensured that I could find solutions and explanations suited to my learning style, whether through reading or watching demonstrations.
+
+### Future Applications
+
+1. **Scalability and Portability**
+
+   > The use of Docker containers will greatly benefit future projects by providing a scalable and portable development environment. This ensures that applications can be easily deployed across different platforms without compatibility issues.
+   
+   > Understanding Docker Compose sets the foundation for managing more complex microservices architectures in the future.
+
+2. **Continuous Learning and Adaptation**
+   > This experience reinforced the importance of staying updated with the latest development tools and practices. Continuous learning and adaptation are crucial for career growth in the tech industry.
+
+   > Plan to further explore advanced Docker functionalities and PHP frameworks to enhance my backend development capabilities.
