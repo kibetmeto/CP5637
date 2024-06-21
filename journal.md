@@ -98,6 +98,9 @@ They provided a  practical demonstration on setting up and configuring a WordPre
 
 # Week 4: Local Development & Deployment
 
+![image](https://github.com/kibetmeto/CP5637/assets/171290925/07f52909-1853-4415-9630-96f9d0fa54fb)
+
+
 ### Learning Activities & Resources
 
 >Configured a local development environment using Docker.
