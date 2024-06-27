@@ -187,3 +187,30 @@ _8 hours_
    > This experience reinforced the importance of staying updated with the latest development tools and practices. Continuous learning and adaptation are crucial for career growth in the tech industry.
 
    > Plan to further explore advanced Docker functionalities and PHP frameworks to enhance my backend development capabilities.
+
+# Week 5: WordPress Child Themes
+
+## Learning Activities & Resources
+
+- **Creating a Child Theme for a WordPress Site**
+- **Posting a lesson learned on LinkedIn.**
+
+**Resources**
+- [WordPress Child Themes Documentation](https://developer.wordpress.org/themes/advanced-topics/child-themes)
+- [YouTube Tutorial on Creating Child Themes](https://www.youtube.com/watch?v=y6Shl6tS5zE)
+
+
+### Estimated Hours ~
+
+ 5 hours
+
+
+## Content Insights
+ 
+>I learned how to create a child theme in WordPress. This involves creating a new directory in the themes folder and adding a style.css file that references the parent theme. This setup allows for customization without altering the original files, ensuring updates to the parent theme don't override my changes.
+I explored the functions.php file to properly enqueue stylesheets. This file is crucial for adding functionalities to the child theme and ensuring it inherits styles from the parent theme.
+
+## Career/Employability/Learning Insights
+
+>Mastering child themes is essential for any web developer working with WordPress. It allows for sustainable and maintainable customization, which is a key skill in professional web development.
+Posting on LinkedIn about what I've learned helps me build a professional online presence. Sharing knowledge and demonstrating expertise can attract potential employers and network connections, enhancing my career prospects.
