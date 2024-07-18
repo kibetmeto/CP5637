@@ -214,3 +214,42 @@ I explored the functions.php file to properly enqueue stylesheets. This file is 
 
 >Mastering child themes is essential for any web developer working with WordPress. It allows for sustainable and maintainable customization, which is a key skill in professional web development.
 Posting on LinkedIn about what I've learned helps me build a professional online presence. Sharing knowledge and demonstrating expertise can attract potential employers and network connections, enhancing my career prospects.
+
+
+
+# Prac 6 - Group Setup
+
+**Estimated Hours ~**
+**_5 hours_**
+
+-  Getting Connected
+
+First things first, we all connected on LinkedIn.
+
+- Communication
+
+We’ve already set up our private Slack group, so we made sure everyone was in and comfortable using it.
+
+- Version Control
+
+ We used the GitHub Classroom link to set up our team’s repository. 
+
+- Planning It Out
+
+For project planning, we decided to go with Trello.
+
+- Integrating Everything
+
+To streamline our workflow, we integrated GitHub and Trello with Slack. Now, whenever something changes or updates happen, we’ll all be in the loop right there in Slack.
+
+- Setting Expectations
+
+The Group Agreement & Contacts section on Trello was a team effort. We hashed out our expectations and did a skills assessment to see where each of us shines—whether it’s coding or communication skills. This will guide how we work together.
+
+
+
+**Links**
+
+- **Slack Channel:** [https://app.slack.com/client/T07CPBM7HK3]()
+- **GitHub Repository:** [https://github.com/CMS2024Team/CMS2024Team]()
+- **LinkedIn Profile:** [https://www.linkedin.com/in/anthony-kibet-b15b9292/]()
