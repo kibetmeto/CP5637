@@ -253,3 +253,32 @@ The Group Agreement & Contacts section on Trello was a team effort. We hashed ou
 - **Slack Channel:** [https://app.slack.com/client/T07CPBM7HK3]()
 - **GitHub Repository:** [https://github.com/CMS2024Team/CMS2024Team]()
 - **LinkedIn Profile:** [https://www.linkedin.com/in/anthony-kibet-b15b9292/]()
+
+# Week 7 - PHP
+
+**Learning Activities & Resources**
+
+This week, I worked on the PHP practical task, which involved creating a simple blog site to demonstrate my understanding of various PHP features. I utilized several online resources to enhance my learning, including:
+
+- W3Schools PHP Tutorial:(https://www.w3schools.com/php/)
+- Stack Overflow. (https://stackoverflow.com/)
+
+**Estimated Hours**
+
+I spent approximately 6 hours learning and completing the practical tasks.
+
+## Content Insights
+
+Through this practical task, I deepened my understanding of several key PHP concepts:
+
+- **Echoing HTML**: I learned how to use the `echo` statement to output HTML content dynamically within my PHP scripts.
+- **Decision Making**: I practiced using `if/else` statements to handle user input and implement basic login functionality.
+- **Repetition**: I utilized `foreach` loops to iterate over arrays, which was particularly useful for displaying blog posts dynamically.
+- **Functions**: I created and used functions with parameters, enhancing the modularity and reusability of my code.
+- **Including Files**: I learned how to include common header and footer files across multiple pages, which simplified the maintenance of my website and ensured consistency.
+
+## Career/Employability/Learning Insights
+
+- I realized that understanding the basics of PHP and its syntax is crucial for web development. The ability to dynamically generate content and manage user interactions is fundamental for creating interactive and user-friendly websites.
+- Learning how to create reusable components (like headers and footers) and modular functions is a valuable skill for web developers. This approach not only saves time but also ensures code maintainability, which is highly regarded in the industry.
+- I discovered that breaking down tasks into smaller, manageable pieces  helps in better understanding and solving complex problems. Additionally, leveraging online resources and community forums can greatly aid in overcoming obstacles and learning new techniques.
