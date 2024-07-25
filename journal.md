@@ -250,9 +250,9 @@ The Group Agreement & Contacts section on Trello was a team effort. We hashed ou
 
 **Links**
 
-- **Slack Channel:** [https://app.slack.com/client/T07CPBM7HK3]()
-- **GitHub Repository:** [https://github.com/CMS2024Team/CMS2024Team]()
-- **LinkedIn Profile:** [https://www.linkedin.com/in/anthony-kibet-b15b9292/]()
+- [**Slack Channel**](https://app.slack.com/client/T07CPBM7HK3)
+- [**GitHub Repository**](https://github.com/CMS2024Team/CMS2024Team)
+- [**LinkedIn Profile**](https://www.linkedin.com/in/anthony-kibet-b15b9292/)
 
 # Week 7 - PHP
 
