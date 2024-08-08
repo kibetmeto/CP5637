@@ -287,7 +287,7 @@ Through this practical task, I deepened my understanding of several key PHP conc
 
 ## 1. Making an Observation
 
-This trimester, the subject of CP3402 has been a real stretch for me with a very challenging learning environment. The span of practicals, from basic web design to advanced WordPress customization and PHP, called for quick adaptation and problem-solving at a very fast pace. This has been tiring but has really enabled me to grasp the concepts regarding web development in depth.
+This trimester, the subject of CP5637  has been a real stretch for me with a very challenging learning environment. The span of practicals, from basic web design to advanced WordPress customization and PHP, called for quick adaptation and problem-solving at a very fast pace. This has been tiring but has really enabled me to grasp the concepts regarding web development in depth.
 
 ## 2. Forming a Hypothesis
 
